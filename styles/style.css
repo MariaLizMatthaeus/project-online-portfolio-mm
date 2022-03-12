@@ -33,8 +33,8 @@ h3 {
 }
 h4 {
   font-size: 48;
-  background-color: #70cca3;
   padding: 20px;
+  border-radius: 10px;
   opacity: 80%;
   animation: forwards;
   animation-duration: 3s;
@@ -129,10 +129,28 @@ p {
 }
 
 .front-end-dev {
-  background-color: ;
+  background-color: #97bfb4;
+  padding: 20px 120px;
+  border-radius: 10px;
+}
+.front-end-dev-cs {
+  background-color: #d3e0dc;
+  padding: 20px 120px;
+  border-radius: 10px;
 }
 .learning-projects {
-  background-color: ;
+  background-color: #e0ece4;
+  padding: 20px 120px;
+  border-radius: 10px;
+}
+.fa-behance-square {
+  margin: 0 20px;
+  color: var(--branding-color);
+  background-color: var(--secondary-color);
+  padding: 10px 14px;
+  font-size: 18px;
+  border-radius: 50%;
+  transition: all 100ms ease-in-out;
 }
 
 footer {
