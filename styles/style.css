@@ -220,4 +220,20 @@ footer .fa-envelope {
     padding: 0;
     text-align: center;
   }
+  .content-container {
+    padding: 0;
+    text-align: center;
+  }
+  .front-end-dev {
+    padding: 0;
+    text-align: center;
+  }
+  .front-end-dev-cs {
+    padding: 0;
+    text-align: center;
+  }
+  .learning-projects {
+    padding: 0;
+    text-align: center;
+  }
 }
